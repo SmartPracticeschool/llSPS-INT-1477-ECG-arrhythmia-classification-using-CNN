@@ -1,3 +1,0 @@
-This is the ECG Arrhythmia dataset with Train And Test Folders:
-
-https://drive.google.com/open?id=1vNGrMKZz7Ec8cBz7AFuDR85sAYF7XrC7
